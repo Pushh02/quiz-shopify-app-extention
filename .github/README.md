@@ -63,8 +63,6 @@ This application allows Shopify merchants to recommend products to customers bas
   - `unauthenticated`: Quizzes can be viewed by anyone who visits the shop, regardless of whether they are logged in.
   - `shopify-app-users`: Merchants can only read themes from their store.
 
-## Setup
-
 # Setting up your quiz app
 
 The following is a guide to get you started with the product quiz. If you get lost, try following the [full tutorial](https://docs.gadget.dev/guides/tutorials/product-recommendation-quiz-app).
