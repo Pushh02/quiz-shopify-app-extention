@@ -1,5 +1,9 @@
 # Product quiz
 
+
+https://github.com/user-attachments/assets/53528b1c-d1b1-4e99-b380-84840f5f3b73
+
+
 This application allows Shopify merchants to recommend products to customers based on their answers to a quiz. By using Gadget's platform, the app enables quiz creation, management, and integration with Shopify's storefront. Merchants can guide customers to relevant products using personalized recommendations from quiz results. This application has a theme app extension which displays the quiz on the Shopify online storefront.
 
 [![Fork template](https://img.shields.io/badge/Fork%20template-%233A0CFF?style=for-the-badge)](https://app.gadget.dev/auth/fork?domain=product-quiz-template.gadget.app)
