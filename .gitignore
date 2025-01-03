@@ -9,4 +9,4 @@ extensions/**/node_modules
 
 .env*
 shopify.app.toml
-shopify.app.development.toml
+shopify.app.*.toml
